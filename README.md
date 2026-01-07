@@ -28,7 +28,6 @@ Tenho 24 anos e atuo profissionalmente na área de desenvolvimento desde os 21.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
----
 
 ## 🔨 Projetos em Destaque
 
