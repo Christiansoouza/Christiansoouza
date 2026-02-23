@@ -54,6 +54,7 @@ Veja meus repositórios para exemplos de:
 ## 📫 Como me encontrar
 
 - [Meu perfil no GitHub](https://github.com/Chrissouza512)
+- [Meu linkedi](https://www.linkedin.com/in/christiansoouza/)
 - Vamos trocar ideias sobre automação e DevOps!
 
 ---
