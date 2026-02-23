@@ -11,7 +11,12 @@ Tenho 24 anos e atuo profissionalmente na área de desenvolvimento desde os 21.
 - Pratico automação de processos e testes desde o início da carreira.
 - Busco escrever código limpo, eficiente e bem documentado.
 - Experiência com integração de sistemas, scripts VBA, automações SAP, desenvolvimento backend em Python (FastAPI, Django), webscraping com Requests, BeautifulSoup ou Selenium, além de aplicações web/backend em geral.
-- 
+- Escrevo código limpo, eficiente e bem documentado, seguindo princípios da Clean Architecture e SOLID.
+- Experiência em desenvolvimento backend com Python (FastAPI, Django) e TypeScript (NestJS, Next.js), além de aplicações web e backend modernas.
+- Expertise em integração de sistemas, webscraping (Requests, BeautifulSoup, Selenium), scripts VBA, automações SAP e desenvolvimento de APIs robustas.
+- Apaixonado por automação, qualidade de software e pela criação de soluções escaláveis e bem estruturadas.
+- Atuo como desenvolvedor backend especializado em arquitetura limpa (Clean Architecture) tanto em projetos Python quanto TypeScript.
+- Familiaridade com todo ecossistema backend moderno: Django, FastAPI, NestJS, Next.js, além das melhores práticas CI/CD, testes automatizados, integração contínua e documentação eficiente.
 ---
 
 ## 💼 Tecnologias e Ferramentas
